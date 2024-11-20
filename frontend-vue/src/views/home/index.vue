@@ -5,8 +5,7 @@
     <div class="container-fluid py-5">
       <h1 class="display-5 fw-bold">FULLTSACK JAVASCRIPT DEVELOPER</h1>
       <p class="col-md-12 fs-4">
-        Belajar Full Stack JavaScript Developer dengan Express dan Vue 3 di
-        SantriKoding.com
+        Implementasi tech stack Express.js dan Vue.js 3
       </p>
       <hr />
       <router-link
